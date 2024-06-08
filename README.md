@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**SaudiJedi/SaudiJedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
 
-Here are some ideas to get you started:
+🎓 BSc in Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Passionate and enthusiast about data.
+
+🌐 Experienced web scraper.
+
+🚀 Code optimizer.
+
+🏅 Top 50 in Python on [CoderHub.sa](https://profile.satr.codes/saudijedi/public/overview).
+
+👨‍💻 Completed projects in big data, data warehouses, and software development throughout my educational journey.
