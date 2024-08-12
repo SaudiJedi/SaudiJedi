@@ -3,7 +3,7 @@
 
 <p align="center">
   <picture>
-  <img src="https://github.com/user-attachments/assets/79fe280d-5da1-4226-9b8e-daec4d7053bf" width="320" alt="Grogu: Hello there!">
+  <img src="images\grogu.gif" width="320" alt="Grogu: Hello there!">
   </picture>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://credentials.databricks.com/32ae0150-ca64-4686-b974-ef501052754b">
-    <img src="https://github.com/user-attachments/assets/7c1fd995-d043-4c2c-9be5-7fced0699650" width="100" alt="Databricks Certified Badge">
+    <img src="images\dbricks-badge.png" width="100" alt="Databricks Certified Badge">
   </a>
 </p>
 
