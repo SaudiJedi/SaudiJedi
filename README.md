@@ -1,12 +1,6 @@
 ## Hi there 👋
 
 
-<p align="center">
-  <picture>
-  <img src="images\grogu.gif" width="320" alt="Grogu: Hello there!">
-  </picture>
-</p>
-
 ### About Me:
 
 🎓 BSc in Computer Science.
